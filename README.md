@@ -1,12 +1,11 @@
-Playwright Test Project
-
+Playwright Test Automation Project
 
 1.Clone the above repository
     git clone <url>
-2. Install Node.js dependencies
-    Run npm install (Builds the code warehouse / node_modules)
-3. Install Playwright browsers
-    Run npx playwright install (Downloads the actual browsers)
+2.Install Node.js dependencies
+    Run npm install
+3.Install Playwright browsers
+    Run npx playwright install
 
 Running tests
 • Run all tests
