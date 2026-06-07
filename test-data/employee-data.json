@@ -1,0 +1,22 @@
+{
+  "ava":{
+    "firstName":"Ava",
+    "middleName":"William",
+    "lastName":"Thomas",
+    "employeeId":"7916",
+    "loginCredentials":{
+      "userName":"Ava7916",
+      "password":"Ava_7916"
+    }
+  },
+  "admin":{
+    "firstName":null,
+    "middleName":null,
+    "lastName":null,
+    "employeeId":null,
+    "loginCredentials":{
+      "userName":"Admin",
+      "password":"admin123"
+    }
+  }
+}
